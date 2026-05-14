@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=lE815tUAAAAJ&hl=ar&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8248-9932"
   semantic         : # URL
   ssrn             : # URL
   #pubmed           : ""
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "Aana_Alshboul"
+  twitter          : "Sana_Alshboul"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -119,15 +119,7 @@ staticman:
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  # hide                   : true     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
-
+ 
 
 # SEO Related
 google_site_verification :
@@ -231,7 +223,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
