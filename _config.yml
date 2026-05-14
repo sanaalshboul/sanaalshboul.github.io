@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Master of Computer Engineering"
   location         : "Jordan"
-  employer         : ""
-  uri              : # URL
+  # employer         : ""
+  # uri              : # URL
   email            : "sana.m.alshboul@gmail.com" 
 
   # Academic websites
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : true     # change to true to hide the RSS feed in the footer
+  # hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
