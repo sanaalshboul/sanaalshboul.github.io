@@ -118,15 +118,10 @@ $(document).ready(function () {
   var didResize = false;
   bumpIt();
 
-  // FitVids init
-  fitvids();
-
  // New Change
      // FitVids init
   $("#main").fitVids();
 
-
-  // Follow menu drop down
    
   // Follow menu drop down
   $(".author__urls-wrapper button").on("click", function () {
