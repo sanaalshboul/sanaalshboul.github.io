@@ -41,3 +41,16 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Footer Fix */
+.page__footer {
+  position: relative !important;
+  bottom: auto !important;
+  width: 100%;
+  clear: both;
+}
+
+.page {
+  min-height: 100vh;
+  padding-bottom: 120px;
+}
