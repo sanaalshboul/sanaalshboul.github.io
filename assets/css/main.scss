@@ -43,25 +43,13 @@
 ;
 
 /* Footer Fix */
-html, body {
-  height: 100%;
-  margin: 0;
-}
+/* Strong footer fix for AcademicPages */
 
-body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-.initial-content,
-.page {
-  flex: 1;
+#main {
+  display: flow-root;
 }
 
 .page__footer {
+  clear: both !important;
   position: relative !important;
-  width: 100%;
-  margin-top: auto;
-  clear: both;
 }
