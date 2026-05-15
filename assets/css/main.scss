@@ -43,13 +43,23 @@
 ;
 
 /* Footer Fix */
-/* Strong footer fix for AcademicPages */
+/* Prevent footer from overlapping sidebar */
 
-#main {
-  display: flow-root;
+.page {
+  display: flex;
+  align-items: flex-start;
+}
+
+.page__inner-wrap {
+  flex: 1;
+}
+
+.sidebar {
+  padding-bottom: 180px;
 }
 
 .page__footer {
-  clear: both !important;
+  clear: both;
   position: relative !important;
+  margin-top: 2rem;
 }
