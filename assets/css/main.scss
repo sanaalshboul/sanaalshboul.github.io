@@ -45,21 +45,6 @@
 /* Footer Fix */
 /* Prevent footer from overlapping sidebar */
 
-.page {
-  display: flex;
-  align-items: flex-start;
-}
-
-.page__inner-wrap {
-  flex: 1;
-}
-
-.sidebar {
+.author__urls-wrapper {
   padding-bottom: 180px;
-}
-
-.page__footer {
-  clear: both;
-  position: relative !important;
-  margin-top: 2rem;
 }
