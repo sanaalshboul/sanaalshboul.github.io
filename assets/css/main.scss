@@ -43,8 +43,24 @@
 ;
 
 /* Footer Fix */
-/* Prevent footer from overlapping sidebar */
+.layout--single {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
 
-.author__urls-wrapper {
-  padding-bottom: 180px;
+.sidebar {
+  position: relative !important;
+  height: auto !important;
+}
+
+.archive,
+.page {
+  min-height: 100vh;
+}
+
+.page__footer {
+  position: relative !important;
+  clear: both !important;
+  z-index: 999;
 }
