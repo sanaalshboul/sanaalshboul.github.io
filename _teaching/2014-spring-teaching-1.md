@@ -9,7 +9,7 @@ location: "Irbid, Jordan"
 ---
 
 
-Part time. Assisting quizzes of courses in: Digital, Digital Lab, Computer Architecture, Numerical, Computer Organization, and VLSI for BSc and MSc.
+Assisting quizzes of courses in: Digital, Digital Lab, Computer Architecture, Numerical, Computer Organization, and VLSI for BSc and MSc.
 
 
 Heading 1
