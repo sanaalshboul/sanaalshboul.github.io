@@ -7,7 +7,7 @@ venue: "Jordan University of Science and Technology, Computer Engineering Depart
 date: 2017-09-25 to 2019-05-30
 location: "Irbid, Jordan"
 ---
-
+Part time. Assisting quizzes of courses in: Digital, Digital Lab, Computer Architecture, Numerical, Computer Organization, and VLSI for BSc and MSc.
 
 Heading 1
 ======
