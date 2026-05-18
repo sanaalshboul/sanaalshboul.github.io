@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Python Trainer"
 collection: teaching
-type: "Workshop"
+type: "Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Free Lancer"
+date: 2020-11-01
+location: "Amman, Jordan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Designed and delivered training programs, including online tutorials and workshops, to support remote learning for students 
 
 Heading 1
 ======
